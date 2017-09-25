@@ -44,6 +44,7 @@ public class GameManager extends Game {
 	//used for load essential audio
 	public void loadEssentialAudio()
 	{
+		//example
 		audioManager.load("musics/music.mp3", Music.class);
 		audioManager.load("musics/sfx_wing.ogg",Sound.class);
 

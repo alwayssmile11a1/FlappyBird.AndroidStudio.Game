@@ -59,7 +59,7 @@ public class PlayScreen implements Screen{
 
 
         //----------------TEXTURE RELATED VARIABLES------------//
-        //initialize background
+        //initialize background example
         backgroundSprite = new Sprite( new Texture("images/bg.png"));
         backgroundSprite.setSize(gameViewPort.getWorldWidth(),gameViewPort.getWorldHeight());
 
