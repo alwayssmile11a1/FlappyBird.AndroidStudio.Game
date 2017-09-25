@@ -8,6 +8,7 @@ import hanabi.game.Screens.PlayScreen;
  * Created by 2SMILE2 on 25/09/2017.
  */
 
+//parent class of any other objects, such as player, enemy, etc.
 public class Object extends Sprite {
 
     protected PlayScreen playScreen;
